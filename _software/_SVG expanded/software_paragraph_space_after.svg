@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<rect x="22" y="5" width="42" height="2"/>
+	<rect x="22" y="15" width="34" height="2"/>
+	<rect x="22" y="25" width="42" height="2"/>
+	<rect x="22" y="35" width="36" height="2"/>
+	<polygon points="57,47 58,47 58,48 60,48 60,45 57,45 	"/>
+	<rect x="39" y="45" width="4" height="2"/>
+	<rect x="27" y="45" width="4" height="2"/>
+	<rect x="45" y="45" width="4" height="2"/>
+	<rect x="33" y="45" width="4" height="2"/>
+	<rect x="51" y="45" width="4" height="2"/>
+	<polygon points="24,47 25,47 25,45 22,45 22,48 24,48 	"/>
+	<rect x="22" y="50" width="2" height="3"/>
+	<polygon points="22,57 25,57 25,55 24,55 24,54 22,54 	"/>
+	<rect x="51" y="55" width="4" height="2"/>
+	<rect x="45" y="55" width="4" height="2"/>
+	<rect x="39" y="55" width="4" height="2"/>
+	<rect x="33" y="55" width="4" height="2"/>
+	<rect x="27" y="55" width="4" height="2"/>
+	<polygon points="58,55 57,55 57,57 60,57 60,54 58,54 	"/>
+	<rect x="58" y="50" width="2" height="3"/>
+	<polygon points="9.293,57.293 10.854,58.707 18,51.707 18,50.293 10.854,43.293 9.366,44.707 14.586,50 0,50 0,52 14.586,52 	"/>
+</g>
+</svg>

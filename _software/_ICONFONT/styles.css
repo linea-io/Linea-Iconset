@@ -1,0 +1,340 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "linea-software-10";
+  src:url("fonts/linea-software-10.eot");
+  src:url("fonts/linea-software-10.eot?#iefix") format("embedded-opentype"),
+    url("fonts/linea-software-10.woff") format("woff"),
+    url("fonts/linea-software-10.ttf") format("truetype"),
+    url("fonts/linea-software-10.svg#linea-software-10") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "linea-software-10" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "linea-software-10" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-software-add-vectorpoint:before {
+  content: "a";
+}
+.icon-software-box-oval:before {
+  content: "b";
+}
+.icon-software-box-polygon:before {
+  content: "c";
+}
+.icon-software-box-rectangle:before {
+  content: "d";
+}
+.icon-software-box-roundedrectangle:before {
+  content: "e";
+}
+.icon-software-character:before {
+  content: "f";
+}
+.icon-software-crop:before {
+  content: "g";
+}
+.icon-software-eyedropper:before {
+  content: "h";
+}
+.icon-software-font-allcaps:before {
+  content: "i";
+}
+.icon-software-font-baseline-shift:before {
+  content: "j";
+}
+.icon-software-font-horizontal-scale:before {
+  content: "k";
+}
+.icon-software-font-kerning:before {
+  content: "l";
+}
+.icon-software-font-leading:before {
+  content: "m";
+}
+.icon-software-font-size:before {
+  content: "n";
+}
+.icon-software-font-smallcapital:before {
+  content: "o";
+}
+.icon-software-font-smallcaps:before {
+  content: "p";
+}
+.icon-software-font-strikethrough:before {
+  content: "q";
+}
+.icon-software-font-tracking:before {
+  content: "r";
+}
+.icon-software-font-underline:before {
+  content: "s";
+}
+.icon-software-font-vertical-scale:before {
+  content: "t";
+}
+.icon-software-horizontal-align-center:before {
+  content: "u";
+}
+.icon-software-horizontal-align-left:before {
+  content: "v";
+}
+.icon-software-horizontal-align-right:before {
+  content: "w";
+}
+.icon-software-horizontal-distribute-center:before {
+  content: "x";
+}
+.icon-software-horizontal-distribute-left:before {
+  content: "y";
+}
+.icon-software-horizontal-distribute-right:before {
+  content: "z";
+}
+.icon-software-indent-firstline:before {
+  content: "A";
+}
+.icon-software-indent-left:before {
+  content: "B";
+}
+.icon-software-indent-right:before {
+  content: "C";
+}
+.icon-software-lasso:before {
+  content: "D";
+}
+.icon-software-layers1:before {
+  content: "E";
+}
+.icon-software-layers2:before {
+  content: "F";
+}
+.icon-software-layout:before {
+  content: "G";
+}
+.icon-software-layout-2columns:before {
+  content: "H";
+}
+.icon-software-layout-3columns:before {
+  content: "I";
+}
+.icon-software-layout-4boxes:before {
+  content: "J";
+}
+.icon-software-layout-4columns:before {
+  content: "K";
+}
+.icon-software-layout-4lines:before {
+  content: "L";
+}
+.icon-software-layout-8boxes:before {
+  content: "M";
+}
+.icon-software-layout-header:before {
+  content: "N";
+}
+.icon-software-layout-header-2columns:before {
+  content: "O";
+}
+.icon-software-layout-header-3columns:before {
+  content: "P";
+}
+.icon-software-layout-header-4boxes:before {
+  content: "Q";
+}
+.icon-software-layout-header-4columns:before {
+  content: "R";
+}
+.icon-software-layout-header-complex:before {
+  content: "S";
+}
+.icon-software-layout-header-complex2:before {
+  content: "T";
+}
+.icon-software-layout-header-complex3:before {
+  content: "U";
+}
+.icon-software-layout-header-complex4:before {
+  content: "V";
+}
+.icon-software-layout-header-sideleft:before {
+  content: "W";
+}
+.icon-software-layout-header-sideright:before {
+  content: "X";
+}
+.icon-software-layout-sidebar-left:before {
+  content: "Y";
+}
+.icon-software-layout-sidebar-right:before {
+  content: "Z";
+}
+.icon-software-magnete:before {
+  content: "0";
+}
+.icon-software-pages:before {
+  content: "1";
+}
+.icon-software-paintbrush:before {
+  content: "2";
+}
+.icon-software-paintbucket:before {
+  content: "3";
+}
+.icon-software-paintroller:before {
+  content: "4";
+}
+.icon-software-paragraph:before {
+  content: "5";
+}
+.icon-software-paragraph-align-left:before {
+  content: "6";
+}
+.icon-software-paragraph-align-right:before {
+  content: "7";
+}
+.icon-software-paragraph-center:before {
+  content: "8";
+}
+.icon-software-paragraph-justify-all:before {
+  content: "9";
+}
+.icon-software-paragraph-justify-center:before {
+  content: "!";
+}
+.icon-software-paragraph-justify-left:before {
+  content: "\"";
+}
+.icon-software-paragraph-justify-right:before {
+  content: "#";
+}
+.icon-software-paragraph-space-after:before {
+  content: "$";
+}
+.icon-software-paragraph-space-before:before {
+  content: "%";
+}
+.icon-software-pathfinder-exclude:before {
+  content: "&";
+}
+.icon-software-pathfinder-intersect:before {
+  content: "'";
+}
+.icon-software-pathfinder-subtract:before {
+  content: "(";
+}
+.icon-software-pathfinder-unite:before {
+  content: ")";
+}
+.icon-software-pen:before {
+  content: "*";
+}
+.icon-software-pen-add:before {
+  content: "+";
+}
+.icon-software-pen-remove:before {
+  content: ",";
+}
+.icon-software-pencil:before {
+  content: "-";
+}
+.icon-software-polygonallasso:before {
+  content: ".";
+}
+.icon-software-reflect-horizontal:before {
+  content: "/";
+}
+.icon-software-reflect-vertical:before {
+  content: ":";
+}
+.icon-software-remove-vectorpoint:before {
+  content: ";";
+}
+.icon-software-scale-expand:before {
+  content: "<";
+}
+.icon-software-scale-reduce:before {
+  content: "=";
+}
+.icon-software-selection-oval:before {
+  content: ">";
+}
+.icon-software-selection-polygon:before {
+  content: "?";
+}
+.icon-software-selection-rectangle:before {
+  content: "@";
+}
+.icon-software-selection-roundedrectangle:before {
+  content: "[";
+}
+.icon-software-shape-oval:before {
+  content: "]";
+}
+.icon-software-shape-polygon:before {
+  content: "^";
+}
+.icon-software-shape-rectangle:before {
+  content: "_";
+}
+.icon-software-shape-roundedrectangle:before {
+  content: "`";
+}
+.icon-software-slice:before {
+  content: "{";
+}
+.icon-software-transform-bezier:before {
+  content: "|";
+}
+.icon-software-vector-box:before {
+  content: "}";
+}
+.icon-software-vector-composite:before {
+  content: "~";
+}
+.icon-software-vector-line:before {
+  content: "\\";
+}
+.icon-software-vertical-align-bottom:before {
+  content: "\e000";
+}
+.icon-software-vertical-align-center:before {
+  content: "\e001";
+}
+.icon-software-vertical-align-top:before {
+  content: "\e002";
+}
+.icon-software-vertical-distribute-bottom:before {
+  content: "\e003";
+}
+.icon-software-vertical-distribute-center:before {
+  content: "\e004";
+}
+.icon-software-vertical-distribute-top:before {
+  content: "\e005";
+}

@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "linea-music-10";
+  src:url("fonts/linea-music-10.eot");
+  src:url("fonts/linea-music-10.eot?#iefix") format("embedded-opentype"),
+    url("fonts/linea-music-10.woff") format("woff"),
+    url("fonts/linea-music-10.ttf") format("truetype"),
+    url("fonts/linea-music-10.svg#linea-music-10") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "linea-music-10" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "linea-music-10" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-music-beginning-button:before {
+  content: "a";
+}
+.icon-music-bell:before {
+  content: "b";
+}
+.icon-music-cd:before {
+  content: "c";
+}
+.icon-music-diapason:before {
+  content: "d";
+}
+.icon-music-eject-button:before {
+  content: "e";
+}
+.icon-music-end-button:before {
+  content: "f";
+}
+.icon-music-fastforward-button:before {
+  content: "g";
+}
+.icon-music-headphones:before {
+  content: "h";
+}
+.icon-music-ipod:before {
+  content: "i";
+}
+.icon-music-loudspeaker:before {
+  content: "j";
+}
+.icon-music-microphone:before {
+  content: "k";
+}
+.icon-music-microphone-old:before {
+  content: "l";
+}
+.icon-music-mixer:before {
+  content: "m";
+}
+.icon-music-mute:before {
+  content: "n";
+}
+.icon-music-note-multiple:before {
+  content: "o";
+}
+.icon-music-note-single:before {
+  content: "p";
+}
+.icon-music-pause-button:before {
+  content: "q";
+}
+.icon-music-play-button:before {
+  content: "r";
+}
+.icon-music-playlist:before {
+  content: "s";
+}
+.icon-music-radio-ghettoblaster:before {
+  content: "t";
+}
+.icon-music-radio-portable:before {
+  content: "u";
+}
+.icon-music-record:before {
+  content: "v";
+}
+.icon-music-recordplayer:before {
+  content: "w";
+}
+.icon-music-repeat-button:before {
+  content: "x";
+}
+.icon-music-rewind-button:before {
+  content: "y";
+}
+.icon-music-shuffle-button:before {
+  content: "z";
+}
+.icon-music-stop-button:before {
+  content: "A";
+}
+.icon-music-tape:before {
+  content: "B";
+}
+.icon-music-volume-down:before {
+  content: "C";
+}
+.icon-music-volume-up:before {
+  content: "D";
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<path d="M0,14.586v44.828L22.414,37L0,14.586z M2,19.414L19.586,37L2,54.586V19.414z"/>
+	<polygon points="64,55 62.414,55 62.293,54.879 62.172,55 62,55 62,55.172 60.879,56.293 64,59.414 	"/>
+	<rect x="62" y="38" width="2" height="4"/>
+	<rect x="62" y="44" width="2" height="3"/>
+	<rect x="62" y="32" width="2" height="4"/>
+	<rect x="62" y="49" width="2" height="4"/>
+	<rect x="62" y="27" width="2" height="3"/>
+	<rect x="62" y="21" width="2" height="4"/>
+	<polygon points="64,14.586 60.879,17.707 62,18.828 62,19 62.172,19 62.293,19.121 62.414,19 64,19 	"/>
+	<rect x="50.019" y="27.114" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 66.6011 85.55)" width="2" height="3.736"/>
+	<rect x="57.944" y="19.188" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 85.7345 77.6247)" width="2" height="3.736"/>
+	<rect x="46.056" y="31.076" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 57.0339 89.5129)" width="2" height="3.736"/>
+	<rect x="53.981" y="23.151" transform="matrix(0.7071 0.7071 -0.7071 0.7071 33.7947 -31.5495)" width="2" height="3.736"/>
+	<polygon points="41.586,37 43.707,39.121 45.121,37.707 44.414,37 45.121,36.293 43.707,34.879 	"/>
+	<rect x="53.982" y="47.114" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -18.5314 53.2241)" width="2" height="3.736"/>
+	<rect x="57.944" y="51.076" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -20.1729 57.187)" width="2" height="3.736"/>
+	<rect x="49.151" y="44.019" transform="matrix(0.7071 0.7071 -0.7071 0.7071 46.7764 -22.8901)" width="3.736" height="2"/>
+	<rect x="45.188" y="40.056" transform="matrix(0.7071 0.7071 -0.7071 0.7071 42.8135 -21.2487)" width="3.736" height="2"/>
+	<rect x="31" y="59" width="2" height="2"/>
+	<rect x="31" y="41" width="2" height="4"/>
+	<rect x="31" y="29" width="2" height="4"/>
+	<rect x="31" y="35" width="2" height="4"/>
+	<rect x="31" y="47" width="2" height="4"/>
+	<rect x="31" y="53" width="2" height="4"/>
+	<rect x="31" y="17" width="2" height="4"/>
+	<rect x="31" y="23" width="2" height="4"/>
+	<rect x="31" y="13" width="2" height="2"/>
+	<path d="M56,10.151C50.245,3.588,41.839,0,32,0C21.075,0,11.907,4.41,6.187,12.419l1.627,1.162C13.149,6.113,21.738,2,32,2
+		c9.509,0,17.577,3.538,22.957,10H46v2h11l1-1V2h-2V10.151z"/>
+</g>
+</svg>

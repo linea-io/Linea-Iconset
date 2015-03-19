@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<path d="M12,53.414L20.414,45H22v-2h-1v-1h-2v1.586L10.586,52H0v12h12V53.414z M10,62H2v-8h8V62z"/>
+	<path d="M52,10.586L43.586,19H42v2h1v1h2v-1.586L53.414,12H64V0H52V10.586z M54,2h8v8h-8V2z"/>
+	<rect x="36" y="19" width="4" height="2"/>
+	<rect x="24" y="19" width="4" height="2"/>
+	<rect x="30" y="19" width="4" height="2"/>
+	<polygon points="21,21 22,21 22,19 19,19 19,22 21,22 	"/>
+	<rect x="19" y="24" width="2" height="4"/>
+	<rect x="19" y="30" width="2" height="4"/>
+	<rect x="19" y="36" width="2" height="4"/>
+	<rect x="30" y="43" width="4" height="2"/>
+	<rect x="24" y="43" width="4" height="2"/>
+	<rect x="36" y="43" width="4" height="2"/>
+	<polygon points="43,43 42,43 42,45 45,45 45,42 43,42 	"/>
+	<rect x="43" y="36" width="2" height="4"/>
+	<rect x="43" y="24" width="2" height="4"/>
+	<rect x="43" y="30" width="2" height="4"/>
+	<rect x="25" y="31" width="14" height="2"/>
+</g>
+</svg>
