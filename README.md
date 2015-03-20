@@ -15,8 +15,10 @@ Linea is currently maintained under the [Semantic Versioning guidelines](http://
 
 ## Contributors
 
+
 **Dario Ferrando**
 - [Website](http://www.dario.io/)
+- [GitHub](https://github.com/DarioFerrando)
 
 **Benjamin Sigidi**
 - [Website](https://moozen.com/)
